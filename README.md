@@ -1,5 +1,7 @@
 # 👋 Salut, moi c'est Houat Nassim !
 
+![Coding](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+
 ### 🚀 Développeur passionné par le code et les nouvelles technologies
 
 Bienvenue sur mon profil GitHub ! Ici, vous trouverez une collection de mes projets, contributions open-source et expérimentations autour du développement web, de l'IA et des outils d'automatisation. Je suis toujours à la recherche de nouveaux défis et opportunités d'amélioration.
@@ -17,12 +19,20 @@ Je suis un développeur **full-stack** avec un intérêt particulier pour :
 
 Je me considère comme un apprenant perpétuel, cherchant toujours à améliorer mes compétences et à découvrir de nouvelles technologies. J'adore collaborer sur des projets open-source et partager mes connaissances avec la communauté.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,js,ts,react,nodejs,express,mongodb,html,css,python&theme=light" alt="Technologies & Tools" />
+</p>
+
 ---
 
 ## 🌱 Ce que j'apprends en ce moment
 
 - Actuellement, je m'intéresse de près à **l'intelligence artificielle** et à la façon dont elle peut être utilisée pour améliorer l'efficacité des systèmes existants.
 - J'explore également **Rust**, un langage fascinant pour la programmation système.
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 
 ---
@@ -40,6 +50,9 @@ Vous pouvez me joindre à tout moment via les plateformes suivantes :
 ## ⚡ Fun fact
 
 En dehors du code, j'aime le sport et les mangas !
+
+![Funny Monkey](https://media.giphy.com/media/3o7buirY0uB4b1uHhy/giphy.gif)
+
 
 ---
 
