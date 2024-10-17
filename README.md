@@ -1,6 +1,5 @@
-# 👋 Salut, moi c'est Houat Nassim !
-
-![Coding](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+# 👋 Salut, moi c'est Houat Nassim !                                                
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 
 ### 🚀 Développeur passionné par le code et les nouvelles technologies
 
@@ -51,9 +50,6 @@ Vous pouvez me joindre à tout moment via les plateformes suivantes :
 
 En dehors du code, j'aime le sport et les mangas !
 
-![Funny Monkey](https://media.giphy.com/media/3o7buirY0uB4b1uHhy/giphy.gif)
-
-
 ---
 
 ## 🤝 Contribution
@@ -63,3 +59,6 @@ Je suis toujours ouvert à des collaborations ou à des contributions à mes pro
 ---
 
 ### 🌟 Merci d'avoir visité mon profil ! Si mes projets vous intéressent, n'oubliez pas de laisser une étoile ⭐️ !
+
+![Happy Dance 5](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
