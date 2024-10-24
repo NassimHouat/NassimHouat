@@ -58,7 +58,5 @@ Je suis toujours ouvert à des collaborations ou à des contributions à mes pro
 
 ---
 
-### 🌟 Merci d'avoir visité mon profil ! Si mes projets vous intéressent, n'oubliez pas de laisser une étoile ⭐️ !
-
 ![Happy Dance 5](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
