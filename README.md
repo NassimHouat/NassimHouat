@@ -46,7 +46,7 @@ Vous pouvez me joindre à tout moment via les plateformes suivantes :
 
 ---
 
-## ⚡ Fun fact
+##  Fun fact
 
 En dehors du code, j'aime le sport et les mangas !
 
